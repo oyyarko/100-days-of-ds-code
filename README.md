@@ -1,7 +1,7 @@
 # 100-days-of-ds-code
 
 ## Day 3:
-Product of subarray of array: Create every possible sub-arrays from given array, and then multply it
+Product of subarray of array: Create every possible sub-arrays from given array, and then multply it \n
 Finding Subset from array: 
 
 ## Day 2:
